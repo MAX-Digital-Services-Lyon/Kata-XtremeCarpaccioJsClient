@@ -1,8 +1,12 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MAX-Digital-Services-Lyon/Kata-XtremeCarpaccioJsClient)
 
-Express Client
-==============
+# Instructions for participants
+
+French version [here](./RULES_FR.md).
+English version [here](./RULES_EN.md).
+
+# Extreme Carpaccio JS Client
 
 Install
 -------
